@@ -1,0 +1,1 @@
+# Minimal-gdx-project template
